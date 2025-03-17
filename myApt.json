@@ -1,0 +1,21 @@
+{
+    "layout": "4+kk",
+    "location": "zizkov",
+    "size": 115,
+    "price_per_m2": 0,
+    "energy_level": 2,
+    "floor": 3,
+    "condition": "Ve vystavbe",
+    "Balkon": 1,
+    "Lodzie": 0,
+    "Zahrada": 0,
+    "Terasa": 0,
+    "Parkovaci stani": 0,
+    "Vytah": 1,
+    "Sklep": 1,
+    "Garaz": 0,
+    "Zarizeno": 0,
+    "Nezarizeno": 0,
+    "Castecne zarizeno": 0,
+    "Bezbarierovy pristup": 0
+}
